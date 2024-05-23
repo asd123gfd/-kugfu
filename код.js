@@ -8,4 +8,3 @@ for (i = 2; i < n; i ++) {
 
 console.log(fibonacci.slice(0,n));
 
-// slice отрезает от массива первые n элементов, если n < 2
